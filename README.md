@@ -1,17 +1,17 @@
 
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+![App Brewery Banner](Documentation/120.png)
 
 #  Quizzler
 
-## Our Goal
+## Goal
 
-The goal of this tutorial is to take you one step further in your journey of becoming an app developer. We are going to introduce you to the holy grail of mobile design patterns: the Model View Controller (MVC) pattern. A design pattern is simply a repeatable and optimised solution to a common software problem and you’ll learn more about this when use in the tutorial.
+The goal of this app is to introduce the Model View Controller (MVC) pattern. This design pattern is simply a repeatable and optimised solution to a common software problem.
 
-## What you will create
+## What I created
 
-You will program a trivia quiz app. If you have another field of expertise such as law or medicine, you’ll be glad to know that multiple choice question apps are one of the most popular types of educational apps on the App Store! 
+I programed a trivia quiz app.
 
-## What you will learn
+## What I learned
 
 * How to programmatically change UI elements such as Labels and Buttons.
 * What is a design pattern and how is it used in programming.
